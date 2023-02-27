@@ -112,3 +112,9 @@ p {
 #developer-name {
   text-shadow: 3px 5px 3px hotpink;
 }
+
+@media (max-width: 450px) {
+  h1 {
+    font-size: 60px;
+  }
+}
